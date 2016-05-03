@@ -11,7 +11,7 @@ public class DrawPanel extends JPanel{
 		//call paintComponent to ensure the panel displays correctly
 		super.paintComponent(g);
 		
-		int width = getWidth();//total widht
+		int width = getWidth();//total width
 		int height = getHeight();//total height
 		
 		//draw a line from the upper-left to the lower-right
