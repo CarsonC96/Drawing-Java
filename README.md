@@ -1,2 +1,3 @@
 # Drawing-Java
-Drawing a smile face
+Drawing for first time on java.
+
